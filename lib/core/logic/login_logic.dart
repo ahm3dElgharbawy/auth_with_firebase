@@ -1,6 +1,5 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:simple_auth/screens/auth/register_screen.dart';
 import 'package:simple_auth/screens/home/home_screen.dart';
 
 void login(BuildContext context,
